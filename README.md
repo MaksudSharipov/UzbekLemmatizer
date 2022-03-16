@@ -1,2 +1,3 @@
 # UzbekLematizer
-Uzbek Lemmatizer for Python 
+Uzbek Lemmatizer for Python. 
+A Python package  to lemmatize Uzbek texts.
