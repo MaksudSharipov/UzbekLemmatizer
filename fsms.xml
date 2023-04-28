@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fsms>
+    <fsm id="0" name="yuklama">
+        <state name="A" finaly="true">
+            <transition to="B">1,2,3,4,5,6,7,8,9,10,11,12,13</transition>
+        </state>
+        <state name="B" finaly="stop"></state>
+    </fsm>
+    <fsm id="1" name="shaxs_son">
+        <state name="A" finaly="true">
+            <transition to="B">1,5,6,9,10,11,14,15,16,17,18</transition>
+            <transition to="C">2</transition>
+            <transition to="D">3,4</transition>
+            <transition to="E">7,8</transition>
+            <transition to="F">12,13</transition>
+        </state>
+        <state name="C" finaly="true">
+            <transition to="E">7,8</transition>
+            <transition to="B">3,4,5,6,9,10,11</transition>
+        </state>
+        <state name="D" finaly="true">
+            <transition to="B">1</transition>
+            <transition to="G">1,2</transition>
+        </state>
+        <state name="E" finaly="true">
+            <transition to="B">1</transition>
+        </state>
+        <state name="F" finaly="true">
+            <transition to="B">1</transition>
+        </state>
+        <state name="G" finaly="true">
+            <transition to="B">1,2</transition>
+        </state>
+        <state name="B" finaly="stop"></state>
+    </fsm>
+    <fsm id="2" name="zamon">
+        <state name="A" finaly="true">
+            <transition to="B">1,6,9,11,14,15,16,17,18,19,20,21,22,23,24</transition>
+            <transition to="C">2</transition>
+            <transition to="D">10</transition>
+            <transition to="E">12,13</transition>
+        </state>
+        <state name="C" finaly="true">
+            <transition to="B">1</transition>
+        </state>
+        <state name="D" finaly="true">
+            <transition to="B">3,4,5,7,8,9,16</transition>
+        </state>
+        <state name="E" finaly="true">
+            <transition to="B">11</transition>
+        </state>
+        <state name="B" finaly="stop"></state>
+    </fsm>
+    <fsm id="3" name="kelishik">
+        <state name="A" finaly="true">
+            <transition to="B">1,2,3,4,5,6,7</transition>
+        </state>
+        <state name="B" finaly="stop"></state>
+    </fsm>
+    <fsm id="4" name="egalik">
+        <state name="A" finaly="true">
+            <transition to="B">1,2,3,4,5,6,7,8,9,10,11,12</transition>
+        </state>
+        <state name="B" finaly="stop"></state>
+    </fsm>
+    <fsm id="5" name="sifatdosh_harakat_nomi">
+        <state name="A" finaly="true">
+            <transition to="B">1,2,3,4,12,13,14</transition>
+            <transition to="C">5,6,7,8,9,10,11</transition>
+            <transition to="D">15</transition>
+            <transition to="E">17</transition>
+        </state>
+        <state name="C" finaly="true">
+            <transition to="B">16</transition>
+        </state>
+        <state name="D" finaly="true">
+            <transition to="B">12,13,14</transition>
+            <transition to="C">5,6,7,8,9,10,11</transition>
+            <transition to="F">17</transition>
+        </state>
+        <state name="E" finaly="true">
+            <transition to="B">3</transition>
+            <transition to="C">5,6,7,8,9</transition>
+            <transition to="G">10,11</transition>
+        </state>
+        <state name="F" finaly="true">
+            <transition to="B">3,5,6,7,8,9</transition>
+        </state>
+        <state name="G" finaly="true">
+            <transition to="B">16</transition>
+        </state>
+        <state name="B" finaly="stop"></state>
+    </fsm>
+    <fsm id="6" name="ravishdosh">
+        <state name="A" finaly="true">
+            <transition to="B">2,3,4,5,6,7,8,9,10,11,12,13</transition>
+            <transition to="C">14,15,16,17,18,19,20</transition>
+        </state>
+        <state name="B" finaly="true">
+            <transition to="C">1</transition>
+        </state>
+        <state name="C" finaly="stop"></state>
+    </fsm>
+    <fsm id="7" name="nisbat">
+        <state name="A" finaly="true">
+            <transition to="B">1,2</transition>
+            <transition to="C">8,9,11,12</transition>
+            <transition to="D">20</transition>
+            <transition to="E">3,4,5,6,7,10,13,14,15,16,17,18,19</transition>
+        </state>
+        <state name="B" finaly="true">
+            <transition to="E">3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</transition>
+            <transition to="F">1,2</transition>
+        </state>
+        <state name="C" finaly="true">
+            <transition to="E">3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</transition>
+            <transition to="I">1,2</transition>
+        </state>
+        <state name="D" finaly="true">
+            <transition to="G">1,2</transition>
+            <transition to="H">8,9,11,12</transition>
+        </state>
+        <state name="F" finaly="true">
+            <transition to="E">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</transition>
+        </state>
+        <state name="G" finaly="true">
+            <transition to="E">3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</transition>
+            <transition to="F">1,2</transition>
+        </state>
+        <state name="H" finaly="true">
+            <transition to="J">1,2</transition>
+        </state>
+        <state name="J" finaly="true">
+            <transition to="E">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</transition>
+        </state>
+        <state name="I" finaly="true">
+            <transition to="E">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</transition>
+        </state>
+        <state name="E" finaly="stop"></state>
+    </fsm>
+    <fsm id="8" name="suz_yasovchi">
+        <state name="A" finaly="true">
+            <transition to="B">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32</transition>
+        </state>
+        <state name="B" finaly="stop"></state>
+    </fsm>
+</fsms>
+
+

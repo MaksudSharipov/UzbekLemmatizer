@@ -1,15 +1,14 @@
 from pathlib import Path
 from lxml import etree
-import os
 
 __this_directory = Path(__file__).parent
-__tree = etree.parse(__this_directory/"suffixes.xml")
+__suff_tree = etree.parse(__this_directory/"suffixes.xml")
 
 #global o`zgaruvchilar
-__root = __tree.getroot()
-# word_info=[maktablarning,maktab,[lar,ning],[]]
+__suff_root = __suff_tree.getroot()
+
+# word_info=[maktablarning,maktab,[lar,ning],[fsm_id]]
 __word_info=['null','null',[],[]]
-__fsm_list=[{'fsm0':[]},{'fsm1':[]},{'fsm2':[]},{'fsm3':[]},{'fsm4':[]},{'fsm5':[]},{'fsm6':[]},{'fsm7':[]},{'fsm8':[]}]
 
 def __construktor(word):
     __word_info.clear()
@@ -17,34 +16,22 @@ def __construktor(word):
     __word_info.append('null')
     __word_info.append([])
     __word_info.append([])
-    __fsm_list.clear()
-    __fsm_list.append({'fsm0':[]})
-    __fsm_list.append({'fsm1':[]})
-    __fsm_list.append({'fsm2':[]})
-    __fsm_list.append({'fsm3':[]})
-    __fsm_list.append({'fsm4':[]})
-    __fsm_list.append({'fsm5':[]})
-    __fsm_list.append({'fsm6':[]})
-    __fsm_list.append({'fsm7':[]})
-    __fsm_list.append({'fsm8':[]})
 
 #fsm larni o`qib olish
 __fsm=[0,0,0,0,0,0,0,0,0]
-__files = os.listdir(__this_directory.joinpath('fsm/verb'))
+__fsm_tree = etree.parse(__this_directory/"fsms.xml")
+__fsm_root = __fsm_tree.getroot()
 
-#__main_fsm=etree.parse(__this_directory / "fsm/MainFSM.xml")
+for fsm_id in range(len(__fsm_root)):
+    try:
+        __fsm[fsm_id] = __fsm_root[fsm_id]
+    except:
+        print('FSM larni o`qib olishda muammo bor!')
 
+#Main FSM, ways
 __ways_number=[[0,1,2,6,7,8],[0,1,2,3,4,5,7,8],[0,3,4,5,7,8]]
 __ways_result=[[],[],[]]
 
-for f in __files:
-    try:
-        number = int(f.split('.')[0])
-        format_file = f.split('.')[1]
-        if (format_file == 'xml') and (number > -1) and (number < 15):
-            __fsm[number] = etree.parse(__this_directory / "fsm/verb" / f)
-    except:
-        pass
 
 def __checkSuffix(local_root):
     suffix=local_root[0].text
@@ -77,18 +64,11 @@ def __cutSuffix(suffix):
 
 
 def __predictPOS(fsm_list):
-    raws=[]
-    rules=[]
-    with open('rules.txt','r') as file:
-        raws=file.readlines()
-        for r in raws:
-            rules.append(r.split('!')[0].split())
-    print(rules)
-
+    pass
 
 def __rootWord(fsm_id,A):
 
-    root=__root.findall(".//item[@fsm_id='"+str(fsm_id)+"']")
+    root=__suff_root.findall(".//item[@fsm_id='"+str(fsm_id)+"']")
     #print(len(root))
     for suffix_id in A:
         suffix_id=int(suffix_id)-1
@@ -157,21 +137,17 @@ def __call_fsm(fsm_id):
         #__fsm_list[fsm_id].pop()
 
 def Lemma(word):
-    word=str(word).lower()
 
     if(len(word)>3):
         for w in range(len(__ways_number)):
             sublist=__ways_number[w]
             __construktor(word)
             __word_info[1] = (word)
-            #print(sublist)
             for i in sublist:
                 __call_fsm(i)
-            #__word_info[3]=__fsm_list2.copy()
-            #__predictPOS(__fsm_list)
-            print(__word_info)
+
             __ways_result[w]=__word_info.copy()
-            #print(__ways_result[w])
+
     #uzunligi 3 harfdan kichik sozlarni tekshirish
     else:
         __construktor(word)
@@ -182,7 +158,7 @@ def Lemma(word):
 
     way_id=0
 
-    print(__ways_result)
+    #print(__ways_result)
     for i in range(1,len(__ways_result)):
         if len(__ways_result[way_id][1])>len(__ways_result[i][1]):
             way_id=i
