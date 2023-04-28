@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fsm id="3" name="kelishik">
+    <state name="A" finaly="true">
+        <transition to="B">1,2,3,4,5,6,7</transition>
+    </state>
+    <state name="B" finaly="stop"></state>
+</fsm>
+

@@ -1,0 +1,1810 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<suffixes>
+	<item fsm_id="0" suff_id="1" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>mi</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="0" suff_id="2" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>-yu</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="0" suff_id="3" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>-u</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="0" suff_id="4" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>-a</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="0" suff_id="5" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>-la</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="0" suff_id="6" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>-da</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="0" suff_id="7" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ki</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="0" suff_id="8" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>yoq</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="0" suff_id="9" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>oq</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="0" suff_id="10" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>dir</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="0" suff_id="11" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>-ku</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="0" suff_id="12" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>chi</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="0" suff_id="13" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>-ya</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="1" suff_id="1" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>sa</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="1" suff_id="2" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>lar</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="1" suff_id="3" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ing</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="1" suff_id="4" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ingiz</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="1" suff_id="5" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>sin</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="1" suff_id="6" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>san</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="1" suff_id="7" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ng</name>
+			<exception_cut></exception_cut>
+			<exception_pass>i</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="1" suff_id="8" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ngiz</name>
+			<exception_cut></exception_cut>
+			<exception_pass>i</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="1" suff_id="9" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>siz</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="1" suff_id="10" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>di</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="1" suff_id="11" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ti</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="1" suff_id="12" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>m</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="1" suff_id="13" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>k</name>
+			<exception_cut></exception_cut>
+			<exception_pass>ayli</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="1" suff_id="14" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>gin</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="1" suff_id="15" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>miz</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="1" suff_id="16" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>man</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="1" suff_id="17" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>aylik</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="1" suff_id="18" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ay</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="1" suff_id="19" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ayin</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="1" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>yap</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="2" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ti</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="3" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>gan</name>
+			<exception_cut></exception_cut>
+			<exception_pass>yot</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="4" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ayotgan</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="5" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>yotgan</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="6" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ar</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="7" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>a</name>
+			<exception_cut></exception_cut>
+			<exception_pass>moqd</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="8" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>y</name>
+			<exception_cut></exception_cut>
+			<exception_pass>ga</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="9" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ib</name>
+			<exception_cut></exception_cut>
+			<exception_pass>yot</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="10" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>di</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="11" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>mi</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="12" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>kan</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="13" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>mish</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="14" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>moqda</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="15" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>moqchi</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="16" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>gusi</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="17" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>r</name>
+			<exception_cut></exception_cut>
+			<exception_pass>a,yoti</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="18" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ayotir</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="19" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>yotir</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="20" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ajak</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="21" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>jak</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="22" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>gay</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="23" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ayotib</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="2" suff_id="24" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>yotib</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="3" suff_id="1" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ni</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="3" suff_id="2" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ning</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="3" suff_id="3" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>da</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="3" suff_id="4" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>dan</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="3" suff_id="5" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ga</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="3" suff_id="6" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ka</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="3" suff_id="7" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>qa</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="4" suff_id="1" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ingiz</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="4" suff_id="2" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ing</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="4" suff_id="3" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>miz</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="4" suff_id="4" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>m</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="4" suff_id="5" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ng</name>
+			<exception_cut></exception_cut>
+			<exception_pass>i</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="4" suff_id="6" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ngiz</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="4" suff_id="7" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>si</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="4" suff_id="8" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>i</name>
+			<exception_cut></exception_cut>
+			<exception_pass>s</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="4" suff_id="9" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>im</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="4" suff_id="10" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>imiz</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="4" suff_id="11" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ilari</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="4" suff_id="12" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>silari</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="5" suff_id="1" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>sh</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="5" suff_id="2" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ish</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="5" suff_id="3" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>moq</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="5" suff_id="4" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>maslik</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="5" suff_id="5" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>gan</name>
+			<exception_cut></exception_cut>
+			<exception_pass>yot,ydi,adi</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="5" suff_id="6" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>kan</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="5" suff_id="7" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>qan</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="5" suff_id="8" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ayotgan</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="5" suff_id="9" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>yotgan</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="5" suff_id="10" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>adigan</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="5" suff_id="11" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ydigan</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="5" suff_id="12" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ar</name>
+			<exception_cut>kul,kel</exception_cut>
+			<exception_pass>l</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="5" suff_id="13" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>r</name>
+			<exception_cut></exception_cut>
+			<exception_pass>la,a</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="5" suff_id="14" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>mas</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="5" suff_id="15" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>lar</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="5" suff_id="16" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ma</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="5" suff_id="17" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>lik</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="1" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ma</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="2" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>gach</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="3" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>kach</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="4" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>qach</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="5" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>guncha</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="6" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>kuncha</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="7" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>quncha</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="8" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>gani</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="9" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>qani</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="1" active="10" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>kani</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="1" active="11" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>gancha</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="12" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>kancha</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="13" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>qancha</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="14" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ib</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="15" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>b</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="16" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>a</name>
+			<exception_cut></exception_cut>
+			<exception_pass>m,gunch,ganch,kanch,qanch,qunch,kunch</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="17" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>y</name>
+			<exception_cut></exception_cut>
+			<exception_pass>ma,</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="18" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>may</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="19" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>masdan</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="6" suff_id="20" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>mayin</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="1" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>dir</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="2" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>tir</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="3" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ir</name>
+			<exception_cut></exception_cut>
+			<exception_pass>t,d</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="4" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>sat</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="5" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ar</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="6" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>in</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="7" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>n</name>
+			<exception_cut></exception_cut>
+			<exception_pass>i</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="8" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>il</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="9" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>l</name>
+			<exception_cut></exception_cut>
+			<exception_pass>i</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="10" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>t</name>
+			<exception_cut></exception_cut>
+			<exception_pass>sa</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="11" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ish</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="12" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>sh</name>
+			<exception_cut></exception_cut>
+			<exception_pass>i</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="13" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>qaz</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="14" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>gaz</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="15" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>kaz</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="16" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>qiz</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="17" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>giz</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="18" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>kiz</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="19" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>iz</name>
+			<exception_cut></exception_cut>
+			<exception_pass>q,k,g</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="7" suff_id="20" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ol</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="1" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>an</name>
+			<exception_cut></exception_cut>
+			<exception_pass>l</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="2" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>la</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="3" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ir</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="4" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ay</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="5" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ka</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="6" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>lan</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="7" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>lash</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="8" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>lashtir</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="9" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>sit</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="10" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>sira</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="11" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>q</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="12" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>a</name>
+			<exception_cut></exception_cut>
+			<exception_pass>ill,ull</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="13" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>iq</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="14" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>qar</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="15" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>g'ar</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="16" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>i</name>
+			<exception_cut></exception_cut>
+			<exception_pass>ch,sh</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="17" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>r</name>
+			<exception_cut></exception_cut>
+			<exception_pass>a,qa,qi,u,ti,i</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="18" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ar</name>
+			<exception_cut>boq,yoq</exception_cut>
+			<exception_pass>q</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="19" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>si</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="20" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>sin</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="21" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>t</name>
+			<exception_cut></exception_cut>
+			<exception_pass>i,o</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="22" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>it</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="23" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>chi</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="24" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>illa</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="25" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ulla</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="26" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ur</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="27" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ira</name>
+			<exception_cut></exception_cut>
+			<exception_pass>s</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="28" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ra</name>
+			<exception_cut></exception_cut>
+			<exception_pass>i</exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="29" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>shi</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="30" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>qir</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="31" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ol</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	<item fsm_id="8" suff_id="32" active="1" group="" category="" class="" type="">
+		<suffix allomorph="false">
+			<name>ot</name>
+			<exception_cut></exception_cut>
+			<exception_pass></exception_pass>
+		</suffix>
+		<definition></definition>
+		<old_pos></old_pos>
+		<new_pos></new_pos>
+		<omonim_group></omonim_group>
+	</item>
+	
+	
+</suffixes>
