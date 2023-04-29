@@ -29,7 +29,7 @@ for fsm_id in range(len(__fsm_root)):
         print('FSM larni o`qib olishda muammo bor!')
 
 #Main FSM, ways
-__ways_number=[[0,1,2,6,7,8],[0,1,2,3,4,5,7,8],[0,3,4,5,7,8]]
+__ways_number=[[0,1,2,6],[0,1,2,3,4,5],[0,3,4,5]]
 __ways_result=[[],[],[]]
 
 
@@ -136,7 +136,7 @@ def __call_fsm(fsm_id):
         #__fsm_list ni ham pop qilish garak
         #__fsm_list[fsm_id].pop()
 
-def Lemma(word):
+def Lemma(word, full=False):
 
     if(len(word)>3):
         for w in range(len(__ways_number)):
@@ -163,6 +163,7 @@ def Lemma(word):
         if len(__ways_result[way_id][1])>len(__ways_result[i][1]):
             way_id=i
     #print(__ways_result[way_id])
-
-    return __ways_result[way_id]
+    if(full):
+        return __ways_result[way_id]
+    return __ways_result[way_id][1]
 
